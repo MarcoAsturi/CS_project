@@ -1,0 +1,5 @@
+pandas
+zstandard
+numpy
+plotly
+matplotlib
