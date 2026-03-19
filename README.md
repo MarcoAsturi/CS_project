@@ -2,7 +2,7 @@ This repository contains analysis and materials related to the exam exercise of 
 
 ## Python Virtual Environment (venv) Setup Guide
 
-This guide will help you set up a Python virtual environment for this project on Windows, Linux, and macOS.
+This guide will help you set up a Python virtual environment for this project on Windows, Linux and macOS.
 
 ### Prerequisites
 
@@ -76,11 +76,6 @@ This guide will help you set up a Python virtual environment for this project on
    deactivate
    ```
 
-### Troubleshooting
-
-- **If `python` command is not found**: Try using `python3` instead
-- **If `venv` module is not found**: Install it using `pip install virtualenv` or install Python with pip included
-- **Permission errors on Linux/Mac**: You may need to use `sudo` for system-wide installations, but it's better to use a virtual environment without sudo
 
 ### Notes
 

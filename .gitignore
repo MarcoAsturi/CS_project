@@ -1,3 +1,4 @@
 # Ambiente virtuale Python
 cs-venv/
+.venv/
 
